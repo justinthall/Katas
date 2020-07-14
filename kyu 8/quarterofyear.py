@@ -1,3 +1,5 @@
+"""problem: with the integer value of a month in a year, return what quarter of the year it is in.
+    solution: create a switch statement using a dictionary to directly pull the month's quarter"""
 def quarter_of(month):
     def quarter1():
         return 1
@@ -23,3 +25,4 @@ def quarter_of(month):
     }
     func=map.get(month, "month not found")
     return func
+
