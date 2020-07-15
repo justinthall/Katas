@@ -1,3 +1,6 @@
+"""Takes a list of answers and compares them to a list of correct answers, and assigns points based on being right,
+wrong, or not answering. """
+
 def check_exam(arr1,arr2):
     correct_test=arr1
     to_be_checked=arr2

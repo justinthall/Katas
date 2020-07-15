@@ -1,3 +1,6 @@
+"""Takes a list of names on a post and then returns a message based on who liked the post."""
+
+
 def likes(names):
     if names==[]:
         return "no one likes this"
