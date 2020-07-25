@@ -20,10 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6b6276f-93f1-4f47-80b3-eef7fc192efc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/debug kyus/celcius kyu 8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems and solutions/Transactionlogs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kyu 6/roman numerals.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,14 +51,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Justin\Documents\Katas" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Transactionlogs">
+  <component name="RunManager" selected="Python.roman numerals">
     <configuration name="IsNumberPrime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Katas" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="stringvsstringlist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="roman numerals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Katas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,11 +151,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kyu 8/problems and solutions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kyu 6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Justin\Documents\Katas\kyu 8\problems and solutions\stringvsstringlist.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kyu 6/roman numerals.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.roman numerals" />
         <item itemvalue="Python.Transactionlogs" />
         <item itemvalue="Python.IsNumberPrime" />
         <item itemvalue="Python.remove dupes" />
         <item itemvalue="Python.imagetest" />
-        <item itemvalue="Python.stringvsstringlist" />
       </list>
     </recent_temporary>
   </component>
@@ -206,50 +203,54 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="484" y="8" key="#roman_numerals" timestamp="1595629041300">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="484" y="8" key="#roman_numerals/0.0.1536.824@0.0.1536.824" timestamp="1595629041300" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1594864860311">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594864860311" />
-    <state width="1515" height="284" key="GridCell.Tab.0.bottom" timestamp="1595626122155">
+    <state width="1515" height="151" key="GridCell.Tab.0.bottom" timestamp="1595633996903">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="284" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595626122155" />
-    <state width="1515" height="284" key="GridCell.Tab.0.center" timestamp="1595626122155">
+    <state width="1515" height="151" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595633996903" />
+    <state width="1515" height="151" key="GridCell.Tab.0.center" timestamp="1595633996902">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="284" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595626122155" />
-    <state width="1515" height="284" key="GridCell.Tab.0.left" timestamp="1595626122155">
+    <state width="1515" height="151" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595633996902" />
+    <state width="1515" height="151" key="GridCell.Tab.0.left" timestamp="1595633996902">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="284" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595626122155" />
-    <state width="1515" height="284" key="GridCell.Tab.0.right" timestamp="1595626122155">
+    <state width="1515" height="151" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595633996902" />
+    <state width="1515" height="151" key="GridCell.Tab.0.right" timestamp="1595633996902">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="284" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595626122155" />
-    <state width="1515" height="280" key="GridCell.Tab.1.bottom" timestamp="1595553932822">
+    <state width="1515" height="151" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595633996902" />
+    <state width="1515" height="274" key="GridCell.Tab.1.bottom" timestamp="1595633250602">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="280" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595553932822" />
-    <state width="1515" height="280" key="GridCell.Tab.1.center" timestamp="1595553932821">
+    <state width="1515" height="274" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595633250602" />
+    <state width="1515" height="274" key="GridCell.Tab.1.center" timestamp="1595633250602">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="280" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1595553932821" />
-    <state width="1515" height="280" key="GridCell.Tab.1.left" timestamp="1595553932821">
+    <state width="1515" height="274" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1595633250602" />
+    <state width="1515" height="274" key="GridCell.Tab.1.left" timestamp="1595633250602">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="280" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1595553932821" />
-    <state width="1515" height="280" key="GridCell.Tab.1.right" timestamp="1595553932821">
+    <state width="1515" height="274" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1595633250602" />
+    <state width="1515" height="274" key="GridCell.Tab.1.right" timestamp="1595633250602">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="280" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595553932821" />
+    <state width="1515" height="274" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595633250602" />
     <state x="595" y="115" key="RollbackChangesDialog" timestamp="1595369854191">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="595" y="115" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1595369854191" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1595381452899">
+    <state x="277" y="57" key="SettingsEditor" timestamp="1595630720650">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595381452899" />
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595630720650" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594775127889">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -262,6 +263,16 @@
           <url>file://$PROJECT_DIR$/problems and solutions/Transactionlogs.py</url>
           <line>144</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kyu 6/roman numerals.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kyu 6/roman numerals.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

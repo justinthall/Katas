@@ -18,5 +18,3 @@ def test_string_against_stringlist(string, stringlist):
         if a / len(name) >= .75:
             hits.append(name)
     return hits
-
-
