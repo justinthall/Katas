@@ -1,6 +1,7 @@
 
 # include <string>
 # include <unordered_set>
+# include <iostream>
 std::string disemvowel(std::string str)
 {
 	std::string giveback{""};
@@ -17,5 +18,8 @@ std::string disemvowel(std::string str)
     }
     return giveback;
 }
-
+int main(){
+	std::cout << "makefile works!" << std::endl;
+	return 0;
+}
 
